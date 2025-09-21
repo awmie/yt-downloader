@@ -20,7 +20,7 @@ https://www.icloud.com/shortcuts/f2b5b211b4554add9b35320a1689be87
 
 ## how to use it 
 
-just copy youtube link and run this command via spotlight as YT downloader(it will start showing up like this), and it will also open up the location it downloaded.
+just copy youtube link and run this command via spotlight as `youtube downloader`(it will start showing up like this), and it will also open up the location it downloaded the video in mp4 format.
 
 ![shortcut](/shortcut_SS.png)
 you can add quick keys(shown very right to the shortcut name appearing, just type your `quick key`) for say `ytd` so whenever you type `ytd` in spotlight it will run this shortcut.
