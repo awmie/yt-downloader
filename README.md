@@ -6,6 +6,14 @@
 
 run these commands in the terminal -
 
+#### References - 
+> Homebrew
+https://brew.sh/
+
+> yt-dlp
+https://formulae.brew.sh/formula/yt-dlp
+
+you can also copy from here as well (its the exactly same thing) -
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
