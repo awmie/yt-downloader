@@ -27,6 +27,7 @@ you can add quick keys(shown very right to the shortcut name appearing, just typ
 
 ### important:
 ![downloads_folder](/downloads_folder.png)
+
 It will ask you for terminal and folder permissions as you're using it for the first time, allow it so it can download the video to the default location on your Mac that is set to `Downloads/` here.
 It wont ask again after it is allowed.
 
